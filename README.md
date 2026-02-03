@@ -1,7 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name : ADITHYA V
-## Roll no : 212223110001
-## Date of experiment : 10.03.25
+## Name : SANJEEV KUMAR S
+## Reg. no : 212224040290
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
